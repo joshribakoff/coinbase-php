@@ -126,7 +126,7 @@ $client = Client::create($configuration);
 
 ### Resource references
 
-In some cases the API will return resource references in place of exanded
+In some cases the API will return resource references in place of expanded
 resource objects. This references can be expanded by refreshing them.
 
 ```php
